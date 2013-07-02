@@ -1,10 +1,10 @@
 Name:       blts-tools
 Summary:    Baselayer test tools
-Version:    0.1
+Version:    0.0.2
 Release:    1
 Group:      Development/Tools
 License:    GPLv2
-URL:        http://github.com/mer-packages/mcts-blts
+URL:        https://github.com/mer-qa/blts-tools
 Source0:    %{name}-%{version}.tar.gz
 
 %description
