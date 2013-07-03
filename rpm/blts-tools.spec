@@ -1,6 +1,6 @@
 Name:       blts-tools
 Summary:    Baselayer test tools
-Version:    0.0.2
+Version:    0.1.1
 Release:    1
 Group:      Development/Tools
 License:    GPLv2
